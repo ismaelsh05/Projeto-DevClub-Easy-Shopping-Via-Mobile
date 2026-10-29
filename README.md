@@ -1,4 +1,4 @@
-<h1>🚀 Projetos DevClub</h1>
+<h1>🚀 Projeto DevClub</h1>
 
 Repositório criado para armazenar os projetos desenvolvidos durante meus estudos no curso de desenvolvimento web do DevClub.
 
@@ -14,5 +14,5 @@ Primeiro projeto desenvolvido durante o curso, com foco na criação de uma pág
 
 <h2 align="center">📝 Meu projeto</h2>
 
-<img src="https://github.com/ismaelsh05/Projeto-DevClub1/blob/main/img/Captura%20de%20tela%202026-10-27%20193822..png?raw=true">
-<img src="https://github.com/ismaelsh05/Projeto-DevClub1/blob/main/img/Captura%20de%20tela%202026-10-27%20193943..png?raw=true">
+<img src="https://github.com/ismaelsh05/Projeto-DevClub-Easy-Shopping-Via-Mobile/blob/main/img/Captura%20de%20tela%202026-10-28%20195302.png?raw=true">
+<img src="https://github.com/ismaelsh05/Projeto-DevClub-Easy-Shopping-Via-Mobile/blob/main/img/Captura%20de%20tela%202026-10-28%20195352.png?raw=true">
