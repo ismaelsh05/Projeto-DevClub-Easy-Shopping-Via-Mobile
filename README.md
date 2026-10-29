@@ -4,7 +4,7 @@ Repositório criado para armazenar os projetos desenvolvidos durante meus estudo
 
 O objetivo é colocar em prática os conhecimentos que estou adquirindo, desenvolver minhas habilidades e evoluir na criação de páginas web.
 
-## 💻 Projetos
+## 💻 Projeto
 
 ### 🛍️ Easy Shopping Via Mobile 
 
